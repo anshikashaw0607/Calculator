@@ -2,6 +2,8 @@
 
 This is a basic calculator project created using HTML and CSS only. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+![Screenshot (1959)](https://github.com/anshikashaw0607/Calculator/assets/111627617/42d43190-b1bf-4e4f-b5b9-b8468bc13880)
+
 ## Features
 
 - Simple and intuitive user interface
