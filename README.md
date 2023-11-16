@@ -19,13 +19,14 @@ To use the calculator:
 
 ## File Structure
 
-- `calculatorNew.html`: Contains the HTML structure of the calculator.
+- `index.html`: Contains the HTML structure of the calculator.
 - `calculator.css`: Contains the CSS styling for the calculator.
 
 ## Technologies Used
 
 - HTML
 - CSS
+- Java
 
 ## How to Contribute
 
