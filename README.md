@@ -1,6 +1,6 @@
  # Calculator Project
 
-This is a basic calculator project created using HTML and CSS only. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a basic calculator project created using Java, HTML and CSS. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ![Screenshot (1959)](https://github.com/anshikashaw0607/Calculator/assets/111627617/42d43190-b1bf-4e4f-b5b9-b8468bc13880)
 
@@ -20,7 +20,7 @@ To use the calculator:
 ## File Structure
 
 - `index.html`: Contains the HTML structure of the calculator.
-- `calculator.css`: Contains the CSS styling for the calculator.
+- `CalcAppStyler.css`: Contains the CSS styling for the calculator.
 
 ## Technologies Used
 
